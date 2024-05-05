@@ -1,3 +1,4 @@
+![logo](https://github.com/JashuaRivero/JashuaRivero/blob/main/Github%20Banner.png)
 <h1 align="center">Hi 👋, I'm Jashua Rivero</h1>
 <h3 align="center">A passionate Front-End Developer from Florida</h3>
 
