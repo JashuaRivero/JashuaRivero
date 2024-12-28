@@ -6,15 +6,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jashuarivero&label=Profile%20views&color=0e75b6&style=flat" alt="jashuarivero" /> </p>
 
-- 🌱 I’m currently learning **HTML 5, CSS, Swift**
+- 🌱 I’m currently learning **JavaScript**
 
 - 👨‍💻 All of my projects are available at [https://github.com/JashuaRivero](https://github.com/JashuaRivero)
 
-- 💬 Ask me about **JavaScript, C++**
+- 💬 Ask me about **HTML, CSS**
 
-- 📫 How to reach me **JashuaRivero200@gmail.com**
+- 📫 How to reach me **JashuaRivero02@gmail.com**
 
-- ⚡ Fun fact **I love Chocolate 🍫**
+- ⚡ Fun fact **I love Shopping 🛒 **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
